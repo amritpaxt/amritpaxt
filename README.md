@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @amritpaxt
-- 👀 I’m interested in creating which is not created yet
-- 🌱 I’m currently doing my btech in cse(aiml)
+- 👋 Hi, I’m @amritpax
+- 🌱 I’m currently doing my btech in cse(aiml) '28 
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me 1. yadamrita936@gmail.com ( Gmail address)
+- 😄 Pronouns:she/her
 - ⚡ Fun fact: ...
 
 <!---
