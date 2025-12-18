@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amritpax
+- 👋 Hi, I’m Amrita
 - 🌱 I’m currently doing my btech in cse(aiml) '28 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 1. yadamrita936@gmail.com ( Gmail address)
