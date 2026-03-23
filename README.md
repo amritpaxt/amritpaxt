@@ -1,4 +1,4 @@
-# <span style="color:#1f6feb">Hi, I'm Amrit</span>
+# <span style="color:#1f6feb">Hi, I'm Amrita</span>
 
 Welcome to my GitHub. I'm a developer focused on architecting scalable solutions and delivering high-impact software.
 
