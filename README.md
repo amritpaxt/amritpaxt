@@ -6,11 +6,8 @@
 🎯 Goals
 - Improve problem-solving skills  
 - Build strong fundamentals  
-- Get good internship opportunities  
+- Get good internship opportunities
 
-## 🌐 Portfolio
-- https://amritpaxt.github.io/portfolio-amrita/
-
-## 📫 Contact
+📫 Contact
 - Email: yadamrita936@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/amrita-yadav-804593324/
