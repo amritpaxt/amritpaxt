@@ -11,8 +11,13 @@ Build strong fundamentals
 Get good internship opportunities
 
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/amrita-yadav-804593324/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-[MAIL](mailto:yadamrita936@gmail.com)
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:yadamrita936@gmail.com">
+  <img src="https://img.shields.io/badge/MAIL-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 ## stats
 
