@@ -1,14 +1,14 @@
 
-Hi, I'm Amrita 👋
-🎓 B.Tech CSE (AI & ML) Student
-🌱 Currently learning and improving my knowledge in tech
+<h2>Hi, I'm Amrita 👋</h2>
+<p>🎓 B.Tech CSE (AI & ML) Student</p>
+<p>🌱 Currently learning and improving my knowledge in tech</p>
 <p>My git commit history has more 'fix typo' commits than actual features</p>
 
-🎯 Goals
+<h2>🎯 Goals</h2>
 
-Improve problem-solving skills
-Build strong fundamentals
-Get good internship opportunities
+<p>Improve problem-solving skills</p>
+<p>Build strong fundamentals</p>
+<p>Get good internship opportunities</p>
 
 <h2>⚡️ Where to find me</h2>
 <a href="YOUR_LINKEDIN_URL">
