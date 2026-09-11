@@ -11,7 +11,7 @@
 <p>Get good internship opportunities</p>
 
 <h2>⚡️ Where to find me</h2>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/amrita-yadav-804593324/">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
